@@ -1,9 +1,9 @@
 # AIC19-Doc
 
-Game Doc: 
+### Game Doc: 
 
-توضیحات جزییات بازی و server و کلاینت
+#### Explanation about game and implementation in server and client
 
-Engagement Doc:
+### Engagement Doc:
 
-قوانین موجود در سایت برای بازی‌کردن و سیدبندی و غیره
+#### Rules about playing games in site, seeding, ...
